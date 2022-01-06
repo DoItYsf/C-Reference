@@ -1,5 +1,5 @@
 # **C-Reference**
-C语言学习指南，取自CPPReference，个人重新书写部分示例代码。
+C语言学习指南，取自[CPPReference](cppreference.com)，个人重写部分示例代码。
 
 # **目录**
 ## 0 - 基本概念
